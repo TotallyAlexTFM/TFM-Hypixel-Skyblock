@@ -59,3 +59,4 @@ Commands
 /flipsound plays a sound on flip
 
 Make sure you have Minecraft Forge for 1.8.9 installed. You can get the universal installer here
+https://files.minecraftforge.net/net/minecraftforge/forge/
